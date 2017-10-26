@@ -21,7 +21,3 @@ select {
     width: 200px;
     margin-bottom: 20px;
 }
-
-input[type=radio] { 
-    display: inline-block;
-}
